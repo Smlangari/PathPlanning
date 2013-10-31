@@ -8,9 +8,11 @@ import com.epperson.state.State;
 import com.epperson.tree.Tree;
 
 public class Tester {
-
+hello
 	public static void main(String[] args) throws IOException {
-		PathPlanner planner = new PathPlanner(0,0,0);
+		/*
+		 * PathPlanner planner = new PathPlanner(0,0,0);
+		 
 		
 		Tree tree = new Tree();
 		MiscMethods tools = new MiscMethods();
