@@ -1,2 +1,5 @@
 bin/
 doc/
+.settings
+.project
+.classpath
